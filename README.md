@@ -1,6 +1,6 @@
 # AI-Driven Churn Prediction Model
 
-This project predicts customer churn for Jio Fiber/Air-Fiber using XGBoost and deploys the model with Seldon-Core in Kubernetes for real-time predictions.
+This project predicts customer churn using XGBoost and deploys the model with Seldon-Core in Kubernetes for real-time predictions.
 
 ## 📌 Features
 - 📊 **Churn Prediction**: Uses XGBoost to predict customer churn.
