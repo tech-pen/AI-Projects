@@ -1,0 +1,10 @@
+pandas
+numpy
+xgboost
+scikit-learn
+seldon-core
+fastapi
+uvicorn
+kafka-python
+psycopg2
+joblib
